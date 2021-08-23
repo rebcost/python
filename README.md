@@ -1,7 +1,7 @@
 # 📒 Python Projects
 <hr>
 
-add image
+![python logo](https://github.com/rebcost/python/blob/main/python-logo.png)
 
 ## Projetos
 
