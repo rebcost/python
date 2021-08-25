@@ -31,6 +31,31 @@ Os projetos estão divididos em três níveis como base no conhecimento e na exp
 </tbody>
 </table>
 
+<br>
+
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-amwm">Nome</th>
+    <th class="tg-amwm">Descrição</th>
+    <th class="tg-amwm">Nível</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax"><a href="https://github.com/rebcost/python/blob/main/Projects/1%20-%20Iniciante/band-name-generator.md">Band Generator</a></td>
+    <td class="tg-0lax">Gerador de nomes para banda</td>
+    <td class="tg-baqh">1 - Iniciante</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><a href="https://github.com/rebcost/python/blob/main/Projects/1%20-%20Iniciante/bmi-calulator.md">BMI Calculator</a></td>
+    <td class="tg-0lax">Calcula o índice de massa corporal</td>
+    <td class="tg-0lax">1 - Iniciante</td>
+  </tr>
+</tbody>
+</table>
+
 
 
 
