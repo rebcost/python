@@ -22,7 +22,7 @@ Os projetos estão divididos em três níveis como base no conhecimento e na exp
   </tr>
   <tr>
     <td class="tg-baqh">2</td>
-    <td class="tg-0lax">Projetos em um estágio intermediário de apredizagem. São utilizados elementos da programação orietado a objeto e também ferramentas de desenvolvimento com UI / UX além de serviços que usam API.</td>
+    <td class="tg-0lax">Projetos em estágio intermediário de apredizagem. São utilizados elementos da programação orientado a objeto e também ferramentas de desenvolvimento com UI / UX além de serviços que usam API.</td>
   </tr>
   <tr>
     <td class="tg-baqh">3</td>
