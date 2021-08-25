@@ -2,7 +2,7 @@
 
 É um game que o jogador precisa fazer as escolhas certas para chegar até a ilha do tesouro, para assim ganhar sua recompensa.
 
-![islandtresure](images/https://github.com/rebcost/python/blob/main/Projects/images/islandtresure.png)
+![islandtresure](https://github.com/rebcost/python/blob/main/Projects/images/islandtresure.png)
 
 ## Execute o Código 👇
 
