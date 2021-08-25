@@ -53,6 +53,11 @@ Os projetos estão divididos em três níveis como base no conhecimento e na exp
     <td class="tg-0lax">Calcula o índice de massa corporal</td>
     <td class="tg-0lax">1 - Iniciante</td>
   </tr>
+  <tr>
+    <td class="tg-0lax"><a href="https://github.com/rebcost/python/edit/main/Projects/1%20-%20Iniciante/island-tresure.md">Island Tresure</a></td>
+    <td class="tg-0lax">Game sobre caça ao tesouro</td>
+    <td class="tg-0lax">1 - Iniciante</td>
+  </tr>
 </tbody>
 </table>
 
