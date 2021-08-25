@@ -58,6 +58,11 @@ Os projetos estão divididos em três níveis como base no conhecimento e na exp
     <td class="tg-0lax">Game sobre caça ao tesouro</td>
     <td class="tg-0lax">1 - Iniciante</td>
   </tr>
+  <tr>
+    <td class="tg-0lax"><a href="https://github.com/rebcost/python/blob/main/Projects/1%20-%20Iniciante/password-generator.md">Password Generator</a></td>
+    <td class="tg-0lax">Gerador de senhas aleátorias</td>
+    <td class="tg-0lax">1 - Iniciante</td>
+  </tr>
 </tbody>
 </table>
 
