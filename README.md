@@ -63,6 +63,11 @@ Os projetos estão divididos em três níveis como base no conhecimento e na exp
     <td class="tg-0lax">Gerador de senhas aleátorias</td>
     <td class="tg-0lax">1 - Iniciante</td>
   </tr>
+  <tr>
+    <td class="tg-0lax"><a href="#">Sistema de Cotação de Moedas</a></td>
+    <td class="tg-0lax">Gera a cotação da moeda para o Real em qualquer data</td>
+    <td class="tg-0lax">2 - Intermediário</td>
+  </tr>
 </tbody>
 </table>
 
