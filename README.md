@@ -68,6 +68,11 @@ Os projetos estão divididos em três níveis como base no conhecimento e na exp
     <td class="tg-0lax">Gera a cotação da moeda para o Real em qualquer data</td>
     <td class="tg-0lax">2 - Intermediário</td>
   </tr>
+    <tr>
+    <td class="tg-0lax"><a href="https://github.com/rebcost/python/blob/main/Projects/2%20-%20Intermedi%C3%A1rio/sistemacotacao.md">Comunidade Impressionadora</a></td>
+    <td class="tg-0lax">Modelo de site tipo forum de discursão para debater assuntos de tecnologia</td>
+    <td class="tg-0lax">3 - Avançado</td>
+  </tr>
 </tbody>
 </table>
 
