@@ -4,15 +4,15 @@ Este projeto foi desenvolvido durante as aulas do Python impressionador do curso
 
 <center><b>HomePage</b></center>
 
-![homepage](C:\workspace\python-100-dias\python\Projects\images\comun-impressiondora-homepage.PNG)
+![homepage](https://github.com/rebcost/python/blob/main/Projects/images/comun-impressiondora-homepage.PNG)
 
 <center><strong>Área do Usuário</strong></center>
 
-![](C:\workspace\python-100-dias\python\Projects\images\comun-impressiondora-perfil-usuario.PNG)
+![](https://github.com/rebcost/python/blob/main/Projects/images/comun-impressiondora-perfil-usuario.PNG)
 
 <center><strong>Área de Postagem</strong></center>
 
-![](C:\workspace\python-100-dias\python\Projects\images\comun-impressiondora-post.PNG)
+![](https://github.com/rebcost/python/blob/main/Projects/images/comun-impressiondora-post.PNG)
 
 ## Tecnologias Utilizadas
 
