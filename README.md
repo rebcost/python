@@ -41,7 +41,7 @@ Os projetos estão divididos em três níveis como base no conhecimento e na exp
 | [Island Tresure](https://github.com/rebcost/python/edit/main/Projects/1%20-%20Iniciante/island-tresure.md) | Game de caça ao tesouro                                      | 1- Iniciante      |
 | [Password Generator](https://github.com/rebcost/python/blob/main/Projects/1%20-%20Iniciante/password-generator.md) | Gerador de senha aleatórias                                  | 1- Iniciante      |
 | [Sistema de Cotação de Moedas](https://github.com/rebcost/python/blob/main/Projects/2%20-%20Intermedi%C3%A1rio/sistemacotacao.md) | Mostra a cotação de moedas estrangeiras convertida em real em qualquer data | 2 - Intermediário |
-| Comunidade Impressionadora                                   | Modelo de site tipo fórum de discursão para debater assuntos de tecnologia | 3 - Avançado      |
+| [Comunidade Impressionadora](https://github.com/rebcost/python/blob/main/Projects/3%20-%20Avan%C3%A7ado/comunidade%20impressionadora.md)                                   | Modelo de site tipo fórum de discursão para debater assuntos de tecnologia | 3 - Avançado      |
 | Tupã Sistems                                                 | Sistema de monitoramento de umidade e temperatura para uma linha de produção | 3 - Avançado      |
 
 
