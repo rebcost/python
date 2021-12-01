@@ -30,52 +30,19 @@ Os projetos estão divididos em três níveis como base no conhecimento e na exp
   </tr>
 </tbody>
 </table>
-
 <br>
 
 
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-amwm">Nome</th>
-    <th class="tg-amwm">Descrição</th>
-    <th class="tg-amwm">Nível</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0lax"><a href="https://github.com/rebcost/python/blob/main/Projects/1%20-%20Iniciante/band-name-generator.md">Band Generator</a></td>
-    <td class="tg-0lax">Gerador de nomes para banda</td>
-    <td class="tg-baqh">1 - Iniciante</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><a href="https://github.com/rebcost/python/blob/main/Projects/1%20-%20Iniciante/bmi-calulator.md">BMI Calculator</a></td>
-    <td class="tg-0lax">Calcula o índice de massa corporal</td>
-    <td class="tg-0lax">1 - Iniciante</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><a href="https://github.com/rebcost/python/edit/main/Projects/1%20-%20Iniciante/island-tresure.md">Island Tresure</a></td>
-    <td class="tg-0lax">Game sobre caça ao tesouro</td>
-    <td class="tg-0lax">1 - Iniciante</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><a href="https://github.com/rebcost/python/blob/main/Projects/1%20-%20Iniciante/password-generator.md">Password Generator</a></td>
-    <td class="tg-0lax">Gerador de senhas aleátorias</td>
-    <td class="tg-0lax">1 - Iniciante</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><a href="https://github.com/rebcost/python/blob/main/Projects/2%20-%20Intermedi%C3%A1rio/sistemacotacao.md">Sistema de Cotação de Moedas</a></td>
-    <td class="tg-0lax">Gera a cotação da moeda para o Real em qualquer data</td>
-    <td class="tg-0lax">2 - Intermediário</td>
-  </tr>
-    <tr>
-    <td class="tg-0lax"><a href="https://github.com/rebcost/python/blob/main/Projects/2%20-%20Intermedi%C3%A1rio/sistemacotacao.md">Comunidade Impressionadora</a></td>
-    <td class="tg-0lax">Modelo de site tipo forum de discursão para debater assuntos de tecnologia</td>
-    <td class="tg-0lax">3 - Avançado</td>
-  </tr>
-</tbody>
-</table>
 
+| Nome                                                         | Descrição                                                    | Nível             |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------- |
+| [Band Name Generator](https://github.com/rebcost/python/blob/main/Projects/1%20-%20Iniciante/band-name-generator.md") | Gerador de nomes de banda                                    | 1 - Iniciante     |
+| [BMI Calculator](https://github.com/rebcost/python/blob/main/Projects/1%20-%20Iniciante/bmi-calulator.md) | Calcular o índice de massa corporal                          | 1- Iniciante      |
+| [Island Tresure](https://github.com/rebcost/python/edit/main/Projects/1%20-%20Iniciante/island-tresure.md) | Game de caça ao tesouro                                      | 1- Iniciante      |
+| [Password Generator](https://github.com/rebcost/python/blob/main/Projects/1%20-%20Iniciante/password-generator.md) | Gerador de senha aleatórias                                  | 1- Iniciante      |
+| [Sistema de Cotação de Moedas](https://github.com/rebcost/python/blob/main/Projects/2%20-%20Intermedi%C3%A1rio/sistemacotacao.md) | Mostra a cotação de moedas estrangeiras convertida em real em qualquer data | 2 - Intermediário |
+| Comunidade Impressionadora                                   | Modelo de site tipo fórum de discursão para debater assuntos de tecnologia | 3 - Avançado      |
+| Tupã Sistems                                                 | Sistema de monitoramento de umidade e temperatura para uma linha de produção | 3 - Avançado      |
 
 
 
